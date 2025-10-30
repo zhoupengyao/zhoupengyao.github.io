@@ -1,114 +1,140 @@
-<div style="black">
-<div style="background-image: url(image/背景.jpg); background-size: 100% 300px ;background-repeat:no-repeat; 
-    width: 100%; height: 350px;">
-        <img src="image/背景.jpg" style=" width: 120px; height: 120px; border-radius: 50%; object-fit: cover; position: relative; top: 240px; left: 66%;"><
-    </div>
-
-<!-- 横幅部分 -->
 <div align="center">
-    
 
-# 👋 你好，我是周鹏耀!
+# 计算机科学
 
-**`计算机科学与技术专业学生 | 全栈开发者 | 技术爱好者`**
+![个人头像](https://via.placeholder.com/150x150/4A90E2/FFFFFF?text=个人照片)
 
-[![Portfolio](https://img.shields.io/badge/🌐-个人网站-00B4D8?style=for-the-badge)](你的网站链接)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](你的LinkedIn)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:你的邮箱)
-[![Blog](https://img.shields.io/badge/📝-技术博客-FF6B6B?style=for-the-badge)](你的博客链接)
+**张明 | 张明**
+
+© 智能计算研究组
 
 </div>
 
 ---
 
-##  技术栈与工具
+## 个人简介
 
-###  编程语言
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+我目前正在中国矿业大学计算机科学与技术学院攻读计算机科学硕士学位，研究方向为人工智能与机器学习。
 
-###  前端技术
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![研究展示](https://via.placeholder.com/600x200/E3F2FD/000000?text=研究项目展示图)
 
+## 研究方向
 
-###  后端与数据库
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<div style="display: flex; justify-content: space-around; margin: 20px 0;">
+<div style="text-align: center;">
+![机器学习](https://via.placeholder.com/80x80/2196F3/FFFFFF?text=ML)
+<br><strong>机器学习</strong>
+</div>
+<div style="text-align: center;">
+![自然语言处理](https://via.placeholder.com/80x80/4CAF50/FFFFFF?text=NLP)
+<br><strong>自然语言处理</strong>
+</div>
+<div style="text-align: center;">
+![计算机视觉](https://via.placeholder.com/80x80/FF9800/FFFFFF?text=CV)
+<br><strong>计算机视觉</strong>
+</div>
+</div>
 
+## 联系方式
 
+<div style="background: #f5f5f5; padding: 20px; border-radius: 8px;">
 
+**📧 邮箱**  
+zhangming@cumt.edu.cn
 
+**📞 电话**  
++86 138-XXXX-XXXX
 
+**🏢 地址**  
+江苏省徐州市大学路1号中国矿业大学计算机学院
 
----
-
-## 精选项目
-
-### 重点项目
-| 项目 | 描述 | 技术栈 | 演示 |
-|------|------|--------|------|
-| **[智能任务管理器](项目链接)** | 基于AI的智能任务分配系统 | `React` `Node.js` `MongoDB` `Python` | [在线演示](演示链接) |
-| **[校园社交平台](项目链接)** | 为大学生设计的社交网络 | `Vue.js` `Express` `MySQL` `Socket.io` | [在线演示](演示链接) |
-| **[自动化测试工具](项目链接)** | 简化软件测试流程的桌面应用 | `Electron` `TypeScript` `Jest` | [下载](下载链接) |
-
-### 其他项目
-<details>
-<summary><b>查看更多项目 (点击展开)</b></summary>
-
-#### Web 应用
-- **[个人博客系统](链接)** - 基于React和Node.js的全栈博客系统
-- **[在线代码编辑器](链接)** - 支持多语言的实时协作编辑器
-
-#### 工具类
-- **[API 测试工具](链接)** - 简化REST API测试的Chrome扩展
-- **[数据可视化工具](链接)** - 将CSV数据转换为交互式图表
-
-####  趣味项目
-- **[贪吃蛇游戏](链接)** - 使用Canvas开发的经典游戏
-- **[天气应用](链接)** - 实时天气查询PWA应用
-</details>
-
----
-
-## 最近动态
-
-<!-- 最近博客文章 -->
-###  最新技术文章
--  [我的第一篇文章标题](文章链接) - 2024.01.15
--  [React Hooks最佳实践](文章链接) - 2024.01.10
--  [解决Node.js内存泄漏问题](文章链接) - 2024.01.05
-
-<!-- 状态更新 -->
-###  当前关注
--  **正在学习**: 微服务架构、Docker容器化
--  **正在探索**: 机器学习基础、云计算
--  **寻求合作**: 开源项目、技术文章协作
--  **向我咨询**: 前端开发、学习路线规划
--  **有趣的事实**: 一天不写代码就浑身难受！
-
----
-
-##  联系我
-
-<div align="center">
-
-**很高兴能与你交流！无论是技术讨论、项目合作还是学习交流，都欢迎联系我**
-
-[![Email](https://img.shields.io/badge/📧-发送邮件-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:你的邮箱)
-[![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](你的LinkedIn)
-[![微信](https://img.shields.io/badge/💬-微信-07C160?style=for-the-badge&logo=wechat&logoColor=white)](你的微信二维码图片链接)
+**🔗 个人主页**  
+[www.zhangming-lab.com](https://www.zhangming-lab.com)
 
 </div>
 
+## 教育背景
 
+<table style="width: 100%; border-collapse: collapse;">
+<tr>
+<td style="width: 30%; padding: 10px; vertical-align: top;">
+![中国矿业大学](https://via.placeholder.com/100x100/607D8B/FFFFFF?text=CUMT)
+</td>
+<td style="padding: 10px; vertical-align: top;">
+<strong>中国矿业大学 | 计算机科学与技术学院</strong><br>
+硕士学位 | 计算机科学 | 2022年至今<br>
+研究方向：人工智能与智能计算
+</td>
+</tr>
+<tr>
+<td style="padding: 10px; vertical-align: top;">
+![中国矿业大学](https://via.placeholder.com/100x100/607D8B/FFFFFF?text=CUMT)
+</td>
+<td style="padding: 10px; vertical-align: top;">
+<strong>中国矿业大学 | 计算机科学与技术学院</strong><br>
+学士学位 | 计算机科学与技术 | 2018-2022
+</td>
+</tr>
+</table>
+
+## 项目经历
+
+### 🚀 智能图像识别系统
+![项目截图](https://via.placeholder.com/400x200/9C27B0/FFFFFF?text=图像识别系统)
+- 开发基于深度学习的图像分类模型
+- 实现准确率95%以上的目标检测系统
+- 使用PyTorch框架，优化模型性能
+
+### 💬 自然语言处理研究
+![项目截图](https://via.placeholder.com/400x200/009688/FFFFFF?text=NLP研究)
+- 研究预训练语言模型在中文文本上的应用
+- 开发文本情感分析工具
+- 发表相关学术论文1篇
+
+## 技能专长
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div style="text-align: center;">
+![Python](https://via.placeholder.com/60x60/3776AB/FFFFFF?text=Py)
+<br><small>Python</small>
+</div>
+<div style="text-align: center;">
+![PyTorch](https://via.placeholder.com/60x60/EE4C2C/FFFFFF?text=PT)
+<br><small>PyTorch</small>
+</div>
+<div style="text-align: center;">
+![TensorFlow](https://via.placeholder.com/60x60/FF6F00/FFFFFF?text=TF)
+<br><small>TensorFlow</small>
+</div>
+<div style="text-align: center;">
+![Java](https://via.placeholder.com/60x60/007396/FFFFFF?text=Java)
+<br><small>Java</small>
+</div>
+<div style="text-align: center;">
+![Linux](https://via.placeholder.com/60x60/FCC624/000000?text=Linux)
+<br><small>Linux</small>
+</div>
+</div>
+
+## 发表论文
+
+<div style="background: #E8F5E8; padding: 15px; border-radius: 5px; margin: 15px 0;">
+<strong>📄 基于深度学习的图像分类方法研究</strong><br>
+张明, 李教授<br>
+《计算机科学》, 2023<br>
+![论文封面](https://via.placeholder.com/80x100/FF5722/FFFFFF?text=论文)
+</div>
+
+## 实验室环境
 
 <div align="center">
+![实验室照片](https://via.placeholder.com/600x300/795548/FFFFFF?text=智能计算实验室)
+<br>
+<em>智能计算研究组实验室环境</em>
+</div>
 
+---
 
-**感谢访问我的 GitHub 主页！** ✨
-
+<div align="center" style="margin-top: 30px;">
+<small>最后更新: 2023年10月 | © 2023 张明 个人主页</small>
 </div>
