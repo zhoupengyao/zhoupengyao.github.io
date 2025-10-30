@@ -1,5 +1,5 @@
 
-<div align="center">
+
     
 
 # 👋 你好，我是周鹏耀!
@@ -11,7 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:你的邮箱)
 [![Blog](https://img.shields.io/badge/📝-技术博客-FF6B6B?style=for-the-badge)](你的博客链接)
 
-</div>
+
 
 ---
 
