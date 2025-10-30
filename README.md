@@ -1,12 +1,12 @@
 <div style="black">
-<img src="">
+<div style="background-image: url(image/背景.jpg); background-size: 100% 300px ;background-repeat:no-repeat; 
+    width: 100%; height: 350px;">
+        <img src="image/背景.jpg" style=" width: 120px; height: 120px; border-radius: 50%; object-fit: cover; position: relative; top: 240px; left: 66%;"><
+    </div>
 
 <!-- 横幅部分 -->
 <div align="center">
-    <div style="background-image: url(image/背景.jpg); background-size: 100% 300px ;background-repeat:no-repeat; 
-    width: 100%; height: 350px;">
-        <div><img src="image/背景.jpg" style=" width: 120px; height: 120px; border-radius: 50%; object-fit: cover; position: relative; top: 240px; left: 25%;"></div>
-    </div>
+    
 
 # 👋 你好，我是周鹏耀!
 
@@ -40,7 +40,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-</div>
+
+
+
 
 ---
 
@@ -107,6 +109,6 @@
 <div align="center">
 
 
-**感谢访问我的 GitHub 主页！** 
+**感谢访问我的 GitHub 主页！** ✨
 
 </div>
